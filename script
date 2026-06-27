@@ -1,0 +1,11 @@
+scripts/
+├── 01_quality_control.sh
+├── 02_trimming.sh
+├── 03_genome_alignment.sh
+├── 04_sort_index_bam.sh
+├── 05_variant_calling.sh
+├── 06_variant_filtering.sh
+├── 07_variant_annotation.sh
+├── 08_phylogenetic_analysis.sh
+├── 09_report_generation.sh
+└── run_pipeline.sh
